@@ -1,8 +1,8 @@
 # Moon Phase
 
 
-### Related to this video:   
-https://www.aparat.com/v/1DEip   
+### Info
+This project by peyman and coustomized by me
 
 
 ### Screenshot:
